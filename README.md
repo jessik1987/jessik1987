@@ -1,6 +1,6 @@
 - 👋 Olá! Sou a Jéssica. Este é o meu Git Hub.
-- 👀 Estou interessada em trabalhar com linguagens orientadas por objetos e banco de dados.
-- 🌱 Estou aprendendo programação em Java, MySQL, .NET/C#
+- 👀 Estou interessada em trabalhar com desenvolvimento e análise de dados
+- 🌱 Estou aprendendo programação em JavaScript, MySQL, Python
 - 📫 Meus contatos: jessik_kroline@hotmail.com
 
 <!---
