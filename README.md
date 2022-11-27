@@ -1,6 +1,6 @@
 - 👋 Olá! Sou a Jéssica. Este é o meu Git Hub.
 - 👀 Estou interessada em trabalhar com desenvolvimento e análise de dados
-- 🌱 Estou aprendendo programação em  MySQL, Python, JavaScript
+- 🌱 Estou aprendendo programação em  Python, JavaScript e MySQL
 - 📫 Meus contatos: jessik_kroline@hotmail.com
 
 <!---
